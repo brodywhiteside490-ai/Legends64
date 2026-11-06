@@ -1,0 +1,17 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "android": "2.2081",
+    "win": "2.2081"
+  },
+  "id": "custom-shop-maker",
+  "name": "Custom Shop Maker",
+  "version": "1.0.0",
+  "developer": "brodywhiteside490-ai",
+  "description": "Create persistent custom shops, edit merchandise, and sell vanilla Geometry Dash icons. More Icons and Scratch-room integration require adapters.",
+  "repository": "https://github.com/brodywhiteside490-ai/Legends64",
+  "tags": [
+    "utility",
+    "customization"
+  ]
+}
